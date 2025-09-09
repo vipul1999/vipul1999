@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a seasoned Java Backend Developer with 2.5 years of experience in the courier & logistics industry. Passionate about building scalable and efficient solutions, I am proficient in Java, Spring Boot, Rest APIs, PostgreSQL, and Kafka.
+I am a seasoned Java Backend Developer with 3Y8M years of experience in the courier & logistics industry. Passionate about building scalable and efficient solutions, I am proficient in Java, Spring Boot, Rest APIs, PostgreSQL, and Kafka.
 
 ## Experience
 ### Software Development Consultant at Infogain (Aug 2024 - Aug 2025)
