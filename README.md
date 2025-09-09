@@ -13,6 +13,16 @@
 I am a seasoned Java Backend Developer with 2.5 years of experience in the courier & logistics industry. Passionate about building scalable and efficient solutions, I am proficient in Java, Spring Boot, Rest APIs, PostgreSQL, and Kafka.
 
 ## Experience
+### Software Development Consultant at Infogain (Aug 2024 - Aug 2025)
+- Built and Improved 2 financial planning tools for a leading financial services provider, enabling client journey management 
+- Utilized Java-Reactor technology for concurrency and scalable, non-blocking backend solutions reducing 20% latency. 
+- Adapted core product for SCB and UOB banks, expanding to 2 new distribution channels and showcasing scalability. 
+- Provided technical support and guidance to 3+ team members, fostering a collaborative work environment. 
+- Delivered 5+ user stories and resolved 15+ bugs, ensuring timely feature delivery and product stability. 
+
+### Software Development Engineer 2 at Jar (May 2024- June 2024) 
+- Designed and implemented user cohort-based coupon systems for users setting up Daily Saving UPI auto-pay 
+- Developed a backup storage solution using S3 buckets for CleverTap notification delivery acknowledgments, transitioning away from CleverTap and establishing a schema for future analytical purposes. 
 
 ### Backend Developer at Delhivery (June 2021 - Dec 2023)
 
